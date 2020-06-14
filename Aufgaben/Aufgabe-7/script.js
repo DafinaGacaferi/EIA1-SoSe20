@@ -6,8 +6,8 @@ window.addEventListener("load", function () {
     var sound4 = new Audio("G.mp3");
     var sound5 = new Audio("hihat.mp3");
     var sound6 = new Audio("kick.mp3");
-    var sound7 = new Audio("laugh-1.mp3");
-    var sound8 = new Audio("laugh-2.mp3");
+    var sound7 = new Audio("laugh1.mp3");
+    var sound8 = new Audio("laugh2.mp3");
     var sound9 = new Audio("snare.mp3");
     // tslint:disable-next-line: typedef
     var sounds = [sound1, sound2, sound3, sound4, sound5, sound6, sound7, sound8, sound9];

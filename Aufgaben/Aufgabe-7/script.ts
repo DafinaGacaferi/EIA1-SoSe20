@@ -7,8 +7,8 @@ window.addEventListener("load", function(): void {
   var sound4: HTMLAudioElement = new Audio("G.mp3");
   var sound5: HTMLAudioElement = new Audio("hihat.mp3");
   var sound6: HTMLAudioElement = new Audio("kick.mp3");
-  var sound7: HTMLAudioElement = new Audio("laugh-1.mp3");
-  var sound8: HTMLAudioElement = new Audio("laugh-2.mp3");
+  var sound7: HTMLAudioElement = new Audio("laugh1.mp3");
+  var sound8: HTMLAudioElement = new Audio("laugh2.mp3");
   var sound9: HTMLAudioElement = new Audio("snare.mp3");
   // tslint:disable-next-line: typedef
   var sounds = [sound1, sound2, sound3, sound4, sound5, sound6, sound7, sound8, sound9];
